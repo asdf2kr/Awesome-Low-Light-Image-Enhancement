@@ -9,10 +9,6 @@
 - [Datasets](#Datasets)
 ---
 
-<font size=3><b> </b></font>
-<br> <font size=2> </font>
-<br> <font size=2>ICCV2017 [[paper]]() [[code]]()</font>
-
 # Papers
 <font size=3><b>Low-Light Image Enhancement with Normalizing Flow </b></font>
 <br> <font size=2>Yufei Wang, Renjie Wan, Wenhan Yang, Haoliang Li, Lap-pui Chau, Alex C. Kot </font>
@@ -29,11 +25,6 @@
 <font size=3><b>Multi-Axis MLP for Image Processing </b></font>
 <br> <font size=2>Zhengzhong Tu, Hossein Talebi, Han Zhang, Feng Yang, Peyman Milanfar, Alan Bovik, Yinxiao Li </font>
 <br> <font size=2>CVPR2022 [[paper]](https://arxiv.org/abs/2201.02973) [[code]](https://github.com/google-research/maxim)</font>
-
-<font size=3><b> </b></font>
-<br> <font size=2> </font>
-<br> <font size=2>ICCV2017 [[paper]]() [[code]]()</font>
-
 
 # Datasets
 <br> <font size=3><b>Low-Light Image Enhancement on LOL<b> </b></font>
